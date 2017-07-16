@@ -1,6 +1,6 @@
-#Screenshot
+# Screenshot
 
-![alt tag] (https://github.com/oero/myZshTheme/blob/master/mytheme.png)
+ ![alt tag](https://github.com/oero/myZshTheme/blob/master/mytheme.png)
 
-#License
-MIT
+# License
+## MIT
